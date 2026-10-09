@@ -1,0 +1,13 @@
+StudentID,Name,Gender,AttendanceRate,StudyHoursPerWeek,PreviousGrade,ExtracurricularActivities,ParentalSupport,FinalGrade
+S001,Student 01,Female,95,14,88,1,High,91
+S002,Student 02,Male,82,8,74,0,Medium,76
+S003,Student 03,Female,68,5,62,1,Low,64
+S004,Student 04,Male,91,12,85,1,High,87
+S005,Student 05,Female,76,7,70,0,Medium,72
+S006,Student 06,Male,59,3,55,0,Low,58
+S007,Student 07,Female,88,10,79,1,High,83
+S008,Student 08,Male,72,6,67,1,Medium,69
+S009,Student 09,Female,98,16,92,1,High,95
+S010,Student 10,Male,84,9,77,0,Medium,80
+S011,Student 11,Female,65,4,60,0,Low,62
+S012,Student 12,Male,90,11,82,1,High,86

@@ -1,0 +1,1 @@
+Optional: add your own licensed video here as assets/hero.mp4. The project does not bundle a third-party video.
